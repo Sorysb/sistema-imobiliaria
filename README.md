@@ -87,7 +87,7 @@ Este projeto foi desenvolvido como parte do **projeto integrador do curso de Sis
 - **Nome**: Pietro Brugnaro
 - **E-mail**: pietro.brugnaro@live.com
 - **GitHub**: [github.com/Sorysb](https://github.com/Sorysb)
-- **Linkedin**: [https://www.linkedin.com/in/pietro-brugnaro/] (https://www.linkedin.com/in/pietro-brugnaro/)
+- **Linkedin**: [https://www.linkedin.com/in/pietro-brugnaro/]
 
 ## Participantes do projeto
 
@@ -99,4 +99,4 @@ Este projeto foi desenvolvido como parte do **projeto integrador do curso de Sis
 -   Victor Augusto
 ---
 
-*Última atualização: 12/06/2025*
+*Última atualização: 13/06/2025*
