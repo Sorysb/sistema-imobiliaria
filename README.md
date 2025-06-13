@@ -91,11 +91,11 @@ Este projeto foi desenvolvido como parte do **projeto integrador do curso de Sis
 
 ## Participantes do projeto
 
--   Arthur Ruan\
--   Leandro\
--   Pedro Henrique\
--   Pietro Brugnaro\
--   Ruan Gomes\
+-   Arthur Ruan
+-   Leandro Lucas
+-   Pedro Henrique
+-   Pietro Brugnaro
+-   Ruan Gomes
 -   Victor Augusto
 ---
 
