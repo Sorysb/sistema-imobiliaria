@@ -91,7 +91,6 @@ Este projeto foi desenvolvido como parte do **projeto integrador do curso de Sis
 
 ## Participantes do projeto
 
--   Arthur Ruan
 -   Leandro Lucas
 -   Pedro Henrique
 -   Pietro Brugnaro
@@ -99,4 +98,4 @@ Este projeto foi desenvolvido como parte do **projeto integrador do curso de Sis
 -   Victor Augusto
 ---
 
-*Última atualização: 13/06/2025*
+*Última atualização: 16/06/2025*
